@@ -19,12 +19,14 @@ Tricorne is a monolithic platform for the [SeeMeCNC](http://seemecnc.com) [Rosto
 
 ### Quick Start
 
-A monolithic platform for the [SeeMeCNC](http://seemecnc.com) [Rostock Max](http://seemecnc.com/products/rostock-max-complete-kit) designed for mounting an [E3D](http://e3d-online.com) [v6 HotEnd](http://e3d-online.com/E3D-v6) without tools or modifications to either.
-
 Print the following components:
 
 - [Tricorne](https://github.com/justinmeyer77/Tricorne/blob/master/Tricorne/Tricorne.stl)
 - [Plug](https://github.com/justinmeyer77/Tricorne/blob/master/Tricorne/Plug.stl)
+
+If needed, disassemble the existing SeeMeCNC Rostock Max platform.
+
+Insert each of the three axles into the Tricorne.  Add the little aluminum doodadds on each axle.  Snap the injection molded retainers on each axle.  Attach the E3D v6 HotEnd.  Push on plug.  Snap on E3D injection molded shroud.  Route wires, tidy up, etc.
 
 ### Bugs & Feature Requests
 
