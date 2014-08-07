@@ -4,6 +4,7 @@
 
 ### Table Of Contents
 
+- [About](#about)
 - [Quick Start](#quick-start)
 - [Bugs & Feature Requests](#bugs-&-feature-requests)
 - [Documentation](#documentation)
@@ -11,6 +12,10 @@
 - [Versioning](#versioning)
 - [Creators](#creators)
 - [Intellectual Property & Licensing](#intellectual-propery-&-licensing)
+
+### About
+
+Tricorne is a monolithic platform for the [SeeMeCNC](http://seemecnc.com) [Rostock Max](http://seemecnc.com/products/rostock-max-complete-kit) designed for mounting an [E3D](http://e3d-online.com) [v6 HotEnd](http://e3d-online.com/E3D-v6) without tools or modifications to either.
 
 ### Quick Start
 
