@@ -1,0 +1,15 @@
+# Autodesk Inventor
+## Project File
+*.ipj
+## Lockfile
+*.lck
+## Old Version Folder
+OldVersions
+
+# Mac OS X
+## Desktop Services Store
+.DS_Store
+
+#Stratasys CatalystEX
+## Toolpath
+*.cmb.gz
