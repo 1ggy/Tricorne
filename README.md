@@ -28,11 +28,15 @@ If needed, disassemble the existing SeeMeCNC Rostock Max platform.
 
 Insert each of the three axles into the Tricorne.  Add the little aluminum doodadds on each axle.  Snap the injection molded retainers on each axle.  Attach the E3D v6 HotEnd.  Push on plug.  Snap on E3D injection molded shroud.  Route wires, tidy up, etc.
 
+For detailed instructions, with pictures (and more zany commentary) see [Documentation](#documentation)
+
 ### Bugs & Feature Requests
 
 Have a bug or a feature request? Please search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/justinmeyer77/Tricorne/issues/new).
 
 ### Documentation
+
+
 
 ### Contributing
 
