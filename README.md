@@ -17,6 +17,10 @@
 
 Tricorne is a monolithic platform for the [SeeMeCNC](http://seemecnc.com) [Rostock Max](http://seemecnc.com/products/rostock-max-complete-kit) designed for mounting an [E3D](http://e3d-online.com) [v6 HotEnd](http://e3d-online.com/E3D-v6) without tools or modifications to either.
 
+It was designed with the intent of being easily printed. That being said, care was given to allow for easy manufacture on modern equipment as well.  The intent is that
+
+Tricorne reduces the parts count for the platform by 50%. (...from about 24, to about 12 - depending on what you're counting...)
+
 ### Quick Start
 
 Print the following components:
