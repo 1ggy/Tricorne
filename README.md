@@ -36,6 +36,7 @@ Have a bug or a feature request? Please search for existing and closed issues. I
 
 ### Documentation
 
+![alt text](https://github.com/justinmeyer77/Tricorne/blob/master/Images/OEM%20Components.jpg "Logo Title Text 1")
 
 
 ### Contributing
