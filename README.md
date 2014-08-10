@@ -80,6 +80,12 @@ Have a bug or a feature request? Please search for existing and closed issues. I
 
 ![alt text](https://github.com/justinmeyer77/Tricorne/blob/master/Images/Wire%20Route%20Rear.jpg "Text")
 
+![alt text](https://github.com/justinmeyer77/Tricorne/blob/master/Images/Complete%20with%20Wires%20Top.jpg "Text")
+
+![alt text](https://raw.githubusercontent.com/justinmeyer77/Tricorne/master/Images/Complete%20Bottom.jpg "Text")
+
+![alt text](https://github.com/justinmeyer77/Tricorne/blob/master/Images/Complete.jpg "Text")
+
 ### Contributing
 
 ### Versioning
